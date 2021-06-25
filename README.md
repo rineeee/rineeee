@@ -19,8 +19,8 @@ Please keep an eye on my improvement.
   <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/></a>
 	<a href="#"><img src="https://img.shields.io/badge/C-CCFF99?style=flat&logo=C&logoColor=white"/></a>
-	  <a href="#"><img src="https://img.shields.io/badge/C++-F05032?style=flat&logo=C++&logoColor=white"/></a>
-	  <a href="#"><img src="https://img.shields.io/badge/Java-F05032?style=flat&logo=JAVA&logoColor=white"/></a>
+	  <a href="#"><img src="https://img.shields.io/badge/C++-006699?style=flat&logo=C++&logoColor=white"/></a>
+	  <a href="#"><img src="https://img.shields.io/badge/Java-EEEEEE?style=flat&logo=JAVA&logoColor=white"/></a>
 	</div>
  <br />
 
