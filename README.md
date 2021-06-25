@@ -7,7 +7,7 @@
 	<br /><br />
 Please keep an eye on my improvement.
   <br /><br />
-  <h3>Tech Stack</h3>
+  <h3>🛠Tech Stack🛠</h3>
   <div class="stack">
     <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black"/></a>
   <a href="#"><img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/></a>
