@@ -20,9 +20,9 @@ Please keep an eye on my improvement.
  <br />
 
 	
-
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=e2e4e3&height=130)
 </div>
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=e2e4e3&height=130)
+
 <!--
 **rineeee/rineeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
