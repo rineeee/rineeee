@@ -4,6 +4,7 @@
 	
   <h4>Hi!😀</h4>
   I'm 🥔,  majoring in software.
+	<br /><br />
 Please keep an eye on my improvement.
   <br /><br />
   <h3>Tech Stack</h3>
