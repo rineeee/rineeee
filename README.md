@@ -1,6 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=rineee&fontAlignY=40&fontSize=100&desc=Department_of_Software_Engineering&descAlignY=65&animation=twinkling)
-
 <div align="center">
+	![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=rineee&fontAlignY=40&fontSize=100&desc=Department_of_Software_Engineering&descAlignY=65&animation=twinkling)
   <h4>Hi!😀</h4>
   I'm 🥔,  majoring in software.
 Please keep an eye on my improvement.
@@ -20,9 +19,9 @@ Please keep an eye on my improvement.
  <br />
 
 	
-</div>
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=e2e4e3&height=130)
 
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=e2e4e3&height=130)
+</div>
 <!--
 **rineeee/rineeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
