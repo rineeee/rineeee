@@ -11,7 +11,7 @@ Please keep an eye on improvement.
   <div class="stack">
     <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black"/></a>
   <a href="#"><img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue-dot-js&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Node.js-4FC08D?style=flat&logo=Node-dot-js&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Html-61DAFB?style=flat&logo=Html&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Django-339933?style=flat&logo=Django&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/></a>
@@ -21,7 +21,6 @@ Please keep an eye on improvement.
 	<a href="#"><img src="https://img.shields.io/badge/C-CCFF99?style=flat&logo=C&logoColor=white"/></a>
 	  <a href="#"><img src="https://img.shields.io/badge/C++-006699?style=flat&logo=C++&logoColor=white"/></a>
 	  <a href="#"><img src="https://img.shields.io/badge/Java-EEEEEE?style=flat&logo=JAVA&logoColor=white"/></a>
-	   <a href="#"><img src="https://img.shields.io/badge/SpringBoot-0000FF?style=flat&logo=SpringBoot&logoColor="/></a>
 	</div>
  <br />
 
