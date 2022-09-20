@@ -2,8 +2,8 @@
 	
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=rineeee&fontAlignY=40&fontSize=100&desc=Department_of_Software_Engineering&descAlignY=65&animation=twinkling)
 	
-  <h4>Hi!😀</h4>
-  I'm 🥔,  majoring in software.
+  <h4>Hi!🙂</h4>
+  I'm majoring in software.
 	<br /><br />
 Please keep an eye on improvement.
   <br /><br />
