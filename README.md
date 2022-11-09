@@ -6,8 +6,6 @@
 
 # 김하린 Harin Kim 🐥
  <!-- Profile views -->
- <img src="https://gpvc.arturio.dev/rahulkarda" align="center">
- <img src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif" align="right" height="300">
  
  <p align="left">My name is Harin Kim and I'm a Backend Engineer.
   
