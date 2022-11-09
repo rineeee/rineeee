@@ -1,4 +1,4 @@
-# 김하린 Harin Kim 🐥
+# 🐥 김하린 Harin Kim 🐥
  <!-- Profile views -->
  <p align="center">
   <a href="https://www.linkedin.com/in/%ED%95%98%EB%A6%B0-%EA%B9%80-825374253/" target="_blank">
