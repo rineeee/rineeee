@@ -17,7 +17,9 @@
   - Korean University Students IT, Management Society 22th
 - 2021
   - LikelionCAU 9th at Chung-Ang University
+    - [TEAM PROJECT] Moiza
 - 2022
+  - [TEAM PROJECT] GitchoTantan, Gardener 
   - Korea Fintech Support Center, 2022 Fintech internship
   - Payhere, Software Engineer Intern
 
