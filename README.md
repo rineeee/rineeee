@@ -15,12 +15,15 @@
 - 2020
   - CHUNG-ANG UNIVERSITY shcool of computer science and engineering
   - Korean University Students IT, Management Society 22th
+    - [TEAM PROJECT] For, rest
 - 2021
   - LikelionCAU 9th at Chung-Ang University
     - [TEAM PROJECT] Moiza
+    - [TEAM PROJECT] Nativing
 - 2022
   - [TEAM PROJECT] GitchoTantan, Gardener 
   - Korea Fintech Support Center, 2022 Fintech internship
+    - [TEAM PROJECT] Supick
   - Payhere, Software Engineer Intern
 
 # Technologies & Tools 🔧
