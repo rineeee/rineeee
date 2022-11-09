@@ -57,10 +57,6 @@ website -->
 </a>
 <br><br>
 
-<a href="https://github.com/rineeee/rineeee">
-  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=rineeee&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph" alt="rineeee's GitHub Contributions Graph"/>
-</a>
-<br><br>
 
 <a href="https://github.com/rahulkarda/NFT-Portal">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rahulkarda&repo=NFT-Portal&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
