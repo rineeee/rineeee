@@ -21,7 +21,7 @@
     - [TEAM PROJECT] Moiza : a website that facilitates meetings
     - [TEAM PROJECT] Nativing : language exchange website
 - 2022
-  - [TEAM PROJECT] GitchoTantan, Gardener 
+  - [TEAM PROJECT] GitchoTantan, Gardener : GitHub Management Site for Junior Developers
   - Korea Fintech Support Center, 2022 Fintech internship
     - [TEAM PROJECT] Supick : Supercar rental application via nft
   - Payhere, Software Engineer Intern
