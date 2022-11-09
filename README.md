@@ -1,4 +1,4 @@
-[![Header](https://github.com/rahulkarda/rahulkarda/blob/main/header.png?raw=true "Header")](https://rahulkarda.netlify.app)
+[![Header]
 
 <p align="center">
   <a href="https://www.linkedin.com/in/%ED%95%98%EB%A6%B0-%EA%B9%80-825374253/" target="_blank">
