@@ -13,9 +13,15 @@
 <!--   I am motivated by the power of technology as a tool for positive change, with a background in Math, Physics, and Engineering. -->
 </p>
 
-<!-- See [my website](https://rahulkarda.netlify.app) for more information! <br> <br>
-You can also find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
-website -->
+# Experience 💫
+- 2020
+ - CHUNG-ANG UNIVERSITY shcool of computer science and engineering
+ - Korean University Students IT, Management Society 22th
+- 2021
+ - LikelionCAU 9th at Chung-Ang University
+- 2022
+ - Korea Fintech Support Center, 2022 Fintech internship
+ - Payhere, Software Engineer Intern
 
 # Technologies & Tools 🔧
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Solidity-363636.svg?style=for-the-badge&logo=Solidity&logoColor=white"> 
