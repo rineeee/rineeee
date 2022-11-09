@@ -1,11 +1,10 @@
-<p align="center">
+# 김하린 Harin Kim 🐥
+ <!-- Profile views -->
+ <p align="center">
   <a href="https://www.linkedin.com/in/%ED%95%98%EB%A6%B0-%EA%B9%80-825374253/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
   </a>
 </p>
-
-# 김하린 Harin Kim 🐥
- <!-- Profile views -->
  
  <p align="left">My name is Harin Kim and I'm a Backend Engineer.
   
