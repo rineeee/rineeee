@@ -38,21 +38,13 @@ website -->
 <br>
 
 # GitHub Stats 📈
-<a href="https://github.com/rineeee/rineeee">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rineeee&hide=less&title_color=d13979&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
-</a>
+[![rineeee's GitHub stats](https://github-readme-stats.vercel.app/api?username=rineeee)](https://github.com/깃허브아이디/github-readme-stats)
 
-<a href="https://github.com/rineeee/rineeee">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rineeee&count_private=true&show_icons=true&theme=radical&hide_border=true&custom_title=rineeee%27s%20Github%20Stats" alt="rineeee's GitHub Stats" />
-</a>
-<br><br>
-
-<a href="https://github.com/rineeee/rineeee">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rineeee&theme=radical&hide_border=true)](https://github.com/rineeee" alt="rineeee's GitHub Stats Graph"/>
-</a>
-<br><br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rineeee)](https://github.com/rineeee/github-readme-stats)
 
 <a href="https://github.com/rineeee/rineeee">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rineeee&theme=dark" alt="rineeee's GitHub Streak Stats"/>
 </a>
 <br><br>
+
+
