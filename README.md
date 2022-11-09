@@ -38,9 +38,6 @@ website -->
 <br>
 
 # GitHub Stats 📈
-[![rineeee's GitHub stats](https://github-readme-stats.vercel.app/api?username=rineeee)](https://github.com/깃허브아이디/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rineeee)](https://github.com/rineeee/github-readme-stats)
 
 <a href="https://github.com/rineeee/rineeee">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rineeee&theme=dark" alt="rineeee's GitHub Streak Stats"/>
