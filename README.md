@@ -26,7 +26,7 @@
 - 2020
   - CHUNG-ANG UNIVERSITY shcool of computer science and engineering
   - Korean University Students IT, Management Society 22th
-    - [TEAM PROJECT] For, rest : Zero-waist induction application
+    - [TEAM PROJECT] For, rest : A well-behaved project for the environment
 
 # GitHub Stats 📈
 
