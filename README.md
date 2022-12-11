@@ -14,20 +14,20 @@
 # Experience 💫
 - 2022
   - [TEAM PROJECT] GitchoTantan, Gardener : GitHub Management Site for Junior Developers
-  - Korea Fintech Support Center, 2022 Fintech internship
+  - [EDUCATION] Korea Fintech Support Center, 2022 Fintech internship
     - [TEAM PROJECT] Supick : Supercar rental application via nft
-  - Payhere, Software Engineer Intern
+  - [INTERN] Payhere, Software Engineer Intern
     - [Python] Settlement management Legacy project refactoring
     - [Golang] Refactoring changing the domain format of legacy project
 
 - 2021
-  - LikelionCAU 9th at Chung-Ang University
+  - [CLUB] LikelionCAU 9th at Chung-Ang University
     - [TEAM PROJECT] Moiza : a website that facilitates meetings
     - [TEAM PROJECT] Nativing : language exchange website
     
 - 2020
-  - CHUNG-ANG UNIVERSITY shcool of computer science and engineering
-  - Korean University Students IT, Management Society 22th
+  - [EDUCATION] CHUNG-ANG UNIVERSITY shcool of computer science and engineering
+  - [CLUB] Korean University Students IT, Management Society 22th
     - [TEAM PROJECT] For, rest : A well-behaved project for the environment
 
 # GitHub Stats 📈
