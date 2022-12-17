@@ -19,7 +19,7 @@
   - [INTERN] Payhere, Software Engineer Intern
     - [Python] Settlement management Legacy project refactoring
     - [Golang] Refactoring changing the domain format of legacy project
- - [PROJECT] E-cart : GitHub Management Site for Junior Developers
+ - [PROJECT] E-cart : Commercial applications built with MSA
  
 - 2021
   - [CLUB] LikelionCAU 9th at Chung-Ang University
