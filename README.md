@@ -12,6 +12,9 @@
 </p>
 
 # Experience 💫
+- 2023
+  - [CLUB] DND 8th
+ 
 - 2022
   - [TEAM PROJECT] GitchoTantan, Gardener : GitHub Management Site for Junior Developers
   - [EDUCATION] Korea Fintech Support Center, 2022 Fintech internship
