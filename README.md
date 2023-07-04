@@ -16,13 +16,14 @@
   - [CLUB] DND 8th
     - [TEAM PROJECT] 하루블럭 : Applications that manage schedules by dividing the day into blocks
     - Download the app [Google Play](https://play.google.com/store/apps/details?id=com.dayblock&hl=ko)
+  - [INTERN] Payhere, Software Engineer Intern
+    - Golang, Python
 - 2022
   - [TEAM PROJECT] GitchoTantan, Gardener : GitHub Management Site for Junior Developers
   - [EDUCATION] Korea Fintech Support Center, 2022 Fintech internship
     - [TEAM PROJECT] Supick : Supercar rental application via nft
   - [INTERN] Payhere, Software Engineer Intern
-    - [Python] Settlement management Legacy project refactoring
-    - [Golang] Refactoring changing the domain format of legacy project
+    - Golang, Python
   - [PROJECT] E-cart : Commercial applications built with MSA
  
 - 2021
