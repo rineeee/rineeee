@@ -6,7 +6,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%ED%95%98%EB%A6%B0-%EA%B9%80-825374253/)](https://www.linkedin.com/in/%ED%95%98%EB%A6%B0-%EA%B9%80-825374253/)
 
  
- <p align="left">My name is Harin Kim and I'm a Backend Engineer.
+ <p align="left">My name is Harin Kim
   
   I'm from Korea, living in Seoul and currently studying Computer Science.
   
