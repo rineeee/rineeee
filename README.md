@@ -39,6 +39,7 @@
     - [TEAM PROJECT] For, rest : A well-behaved project for the environment
 
 # GitHub Stats 📈
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rineeee&theme=dark)](https://git.io/streak-stats)
 
 <a href="https://github.com/rineeee/rineeee">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rineeee&theme=dark" alt="rineeee's GitHub Streak Stats"/>
