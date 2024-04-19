@@ -8,7 +8,7 @@
  
  <p align="left">My name is Harin Kim.
   
-  I'm from Korea, living in Seoul and currently studying Computer Science.
+Living in Seoul and currently studying Computer Science.
   
 <!--   I am motivated by the power of technology as a tool for positive change, with a background in Math, Physics, and Engineering. -->
 </p>
